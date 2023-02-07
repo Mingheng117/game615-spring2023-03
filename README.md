@@ -3,7 +3,7 @@
 
 Team: Zhuqing Gao |
       Yihua Pu |
-      Mingheng Li |
+      Mingheng Li
 
 [Playable link to game](https://mingheng117.github.io/game615-spring2023-03/tree/main/play/)
 
